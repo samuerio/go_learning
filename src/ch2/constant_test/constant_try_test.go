@@ -2,6 +2,7 @@ package constant_test
 
 import "testing"
 
+
 const (
 	Monday = 1 + iota
 	Tuesday
